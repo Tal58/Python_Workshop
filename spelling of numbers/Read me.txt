@@ -1,0 +1,4 @@
+This function is used for spelling of numbers. 
+Firstly, the code requests a number and then it converts the input to written form if the input valid.
+If the input is not available the code will request one more input again.
+In this code you can observe list applications in python with for and while loop.

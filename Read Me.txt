@@ -1,0 +1,1 @@
+This repository shows many studies including lots of methods and built in functions in Python. Also, you can easily understand how methods/built in functions work in any studies. I hope that this work will help you to improve your skills in Python. To get more information please follow my account.

@@ -1,0 +1,2 @@
+This code is used to make a list from smallest prime number to the number you entered(inclusive).
+In this code you will see a good example of function which is used to check the number is prime or not. 

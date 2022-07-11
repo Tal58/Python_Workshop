@@ -1,0 +1,1 @@
+This function is used to display your user password. Beginner level for python user.
