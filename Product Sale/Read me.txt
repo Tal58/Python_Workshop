@@ -1,0 +1,3 @@
+In this project, we would like to get a request from the customer. On the other hand, according to the company regulations we have to sell our products
+in line with the list which is embedded in the header of the code.
+I hope that this project will help you to get some ideas to be used later.
