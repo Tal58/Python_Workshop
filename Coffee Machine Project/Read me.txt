@@ -1,0 +1,10 @@
+In this project, I would like to produce a coffee machine program. First of all, the program of the machine shows the storage and prices of the products.
+The user should choose one of them, then the program starts working. It requests coins and the user should enter all coins separately(one by one). If the user reaches the requested amount,
+coffee will be prepared. If the User has some coins in the machine, the machine will give them back. Finally, the storage of the machine will be updated by the program.
+
+Additionally, if the machine needs maintenance, the special code ("maintenance") shall be entered. Then the system will close...
+Finally, if the admin would like to add some items (money, coffee, milk etc.), the special code ("admin") shall be entered. Then the report screen occurs... The manager can take the remaining amount of money as well :)
+
+I hope that this project will help you to improve your skills.
+If you like my project please follow me.
+
