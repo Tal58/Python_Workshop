@@ -50,7 +50,7 @@ def shopping():
                 total_kg=0 #to reset the value
             else: 
                 max_affordable_kg= (money/stock_value[stock_value_price[x]][0])-((money/stock_value[stock_value_price[x]][0]) % stock_value[stock_value_price[x]][1])
-                money = money - (max_affordable_kg * customer[stock_value_price[x]])
+                money = money - (max_affordable_kg * customer[stock_value_price[x]][0])
                 customer[stock_value_price[x]][1] = max_affordable_kg
                 max_affordable_kg=0 #to reset the value
 
