@@ -1,0 +1,2 @@
+In this code, ı would like to turn the list straightforward starting from the smallest number. Sort and same methods are not allowed to use:)
+So your code has to turn clockwise :)
